@@ -90,7 +90,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/Jayabharathi3/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/120367796/d49845df-d0f0-4a1b-b777-07953e28bbef)
+![image](https://github.com/Jayabharathi3/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/120367796/d4cde5a3-128e-499e-8a7b-144694d881fb)
+
 
 
 ## RESULT:
